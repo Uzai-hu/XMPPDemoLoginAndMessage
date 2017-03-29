@@ -1,0 +1,32 @@
+PODS:
+  - CocoaAsyncSocket (7.6.0)
+  - CocoaLumberjack (3.1.0):
+    - CocoaLumberjack/Default (= 3.1.0)
+    - CocoaLumberjack/Extensions (= 3.1.0)
+  - CocoaLumberjack/Default (3.1.0)
+  - CocoaLumberjack/Extensions (3.1.0):
+    - CocoaLumberjack/Default
+  - KissXML (5.2.0)
+  - MJExtension (3.0.13)
+  - SVProgressHUD (2.1.2)
+  - XMPPFramework (3.7.0):
+    - CocoaAsyncSocket (~> 7.6.0)
+    - CocoaLumberjack
+    - KissXML (~> 5.2.0)
+
+DEPENDENCIES:
+  - MJExtension
+  - SVProgressHUD
+  - XMPPFramework (~> 3.7.0)
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: b9d5589f07baf9de8f34cc25abd4fcba28f13805
+  CocoaLumberjack: 8311463ddf9ee86a06ef92a071dd656c89244500
+  KissXML: 1c1eeeb6b94e4522cd2f2373e5d0d03c9227738f
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  XMPPFramework: 6f99ad1afcdb0cdbec7192a8e4c542c3fc3de6f8
+
+PODFILE CHECKSUM: cee19be519562a24740a0a412c66e02337e0ddfe
+
+COCOAPODS: 1.2.0.beta.1
